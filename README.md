@@ -1,4 +1,4 @@
-# Module-1-Individual-Work
+# Module-1-Basics
 Materials and exercises for Module 1 of Teacher Training
 
 ## In your terminal, create a demo project that replicates these steps:
